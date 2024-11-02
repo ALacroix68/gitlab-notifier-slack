@@ -1,7 +1,7 @@
 (In coming)
 
 # gitlab-notifier-slack
-Middleware tool which create notifications in Slack when an event is triggered in Gitlab.
+Middleware tool which create notifications in Slack when specific events are triggered on Gitlab.
 
 # How does it works
 
